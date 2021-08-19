@@ -8,7 +8,7 @@ require (
 	github.com/briandowns/spinner v1.16.0
 	github.com/comail/colog v0.0.0-20160416085026-fba8e7b1f46c
 	github.com/gen2brain/dlgs v0.0.0-20210609125024-bf6c92aaa984
-	github.com/golang/mock v1.5.0
+	github.com/golang/mock v1.6.0
 	github.com/google/go-cmp v0.5.6
 	github.com/google/wire v0.5.0
 	github.com/mitchellh/go-homedir v1.1.0
