@@ -20,7 +20,7 @@
     "mock:build": "NEXT_PUBLIC_USE_MOCK_BACKEND=1 next build"
   },
   "dependencies": {
-    "@material-ui/core": "4.11.4",
+    "@mui/material": "5.0.0",
     "@material-ui/icons": "4.11.2",
     "@zeit/next-typescript": "1.1.1",
     "dotenv": "8.6.0",
