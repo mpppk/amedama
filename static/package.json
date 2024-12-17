@@ -44,7 +44,7 @@
     "typescript-fsa-redux-saga": "2.0.0"
   },
   "devDependencies": {
-    "@types/base16": "1.0.2",
+    "@types/base16": "1.0.5",
     "@types/jest": "26.0.24",
     "@types/lodash": "4.14.178",
     "@types/lodash.curry": "4.1.6",
